@@ -9,34 +9,34 @@ Suape port maintenance history:https://www.suape.pe.gov.br/pt/institucional/hist
 
 Newspaper: https://www.correiobraziliense.com.br/brasil/2023/03/5078325-ataques-de-tubarao-entenda-porque-recife-e-um-local-com-muitos-casos.html
 
-Methods:
-Filtering
-Grouping
+## Methods:
+Filtering/
+Grouping/
 Visualization
 
-Technologies:
-Python
-Pandas
-Numpy
-Regex
+## Technologies:
+Python/
+Pandas/
+Numpy/
+Regex/
 Matplotlib
-The project is fully described step by step.
 
-Steps:
-Clearing the data
-Importing the libraries for visualizations and analysis:
-Exploring the raw data:
-Functions used in the process:
-Performing cleaning, substitutions and withdrawals from the original DataFrame:
-Analyzing and comparing the cases of attacks in the coastal states of Brazil in relation to Pernambuco:
-Defining and exploring the new DataFrame:
-To continue the study, I will eliminate columns and without relevance:
-Comparison between attacks in the world and attacks in Brazil from 1826 to 2023:
-Comparison of the number of attacks in Pernambuco compared to Brazil:
-Graphics analysis:
+## Steps:
+### The project is fully described step by step.
+Clearing the data/
+Importing the libraries for visualizations and analysis/
+Exploring the raw data/
+Functions used in the process/
+Performing cleaning, substitutions and withdrawals from the original DataFrame/
+Analyzing and comparing the cases of attacks in the coastal states of Brazil in relation to Pernambuco/
+Defining and exploring the new DataFrame/
+To continue the study, I will eliminate columns and without relevance/
+Comparison between attacks in the world and attacks in Brazil from 1990 to 2023/
+Comparison of the number of attacks in Pernambuco compared to Brazil/
+Graphics analysis
 
-Conclusion:
-The database provides us with 95% of cases only registered in the 90's, thus limiting the understanding of the increase in cases related to port maintenance. The need for more robust and local data to complement the analysis is imposed.
+## Conclusion:
+Based on the analyzes carried out, we assume a relative increase in cases of attacks from the 1990s onwards. In addition to this unfutable hypothesis, I leave the following points to be considered below: The database used is international, and closer follow-up may be restricted. I need the cases, in view of the likely graphic feed based on cases that are reported in the international press. Understanding the limitation of the data, since the start date of records starts in the 80's very close to the date of works that this study proposes to analyze. There is a need for more robust and local data to complement the analysis.
 
 My first project \o/ I'm very happy, here's a message for Pedro from the future: Man, look how far you've come since the beginning! Do not stop!
 I hope I helped someone with this project as many people helped me! Hugs to you who read!
