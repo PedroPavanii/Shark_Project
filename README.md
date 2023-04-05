@@ -31,7 +31,7 @@ Performing cleaning, substitutions and withdrawals from the original DataFrame/
 Analyzing and comparing the cases of attacks in the coastal states of Brazil in relation to Pernambuco/
 Defining and exploring the new DataFrame/
 To continue the study, I will eliminate columns and without relevance/
-Comparison between attacks in the world and attacks in Brazil from 1990 to 2023/
+Comparison between attacks in the world and attacks in Brazil from 1980 to 2023/
 Comparison of the number of attacks in Pernambuco compared to Brazil/
 Graphics analysis
 
