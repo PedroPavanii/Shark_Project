@@ -38,6 +38,5 @@ Graphics analysis:
 Conclusion:
 The database provides us with 95% of cases only registered in the 90's, thus limiting the understanding of the increase in cases related to port maintenance. The need for more robust and local data to complement the analysis is imposed.
 
-My first project \o/ I'm very happy, here's a message for Pedro from the future: Man, look how far you've come! Don't stop!
+My first project \o/ I'm very happy, here's a message for Pedro from the future: Man, look how far you've come since the beginning! Do not stop!
 I hope I helped someone with this project as many people helped me! Hugs to you who read!
-
