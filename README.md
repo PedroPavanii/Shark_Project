@@ -19,7 +19,7 @@ Python
 Pandas
 Numpy
 Regex
-
+Matplotlib
 The project is fully described step by step.
 
 Steps:
@@ -33,8 +33,11 @@ Defining and exploring the new DataFrame:
 To continue the study, I will eliminate columns and without relevance:
 Comparison between attacks in the world and attacks in Brazil from 1826 to 2023:
 Comparison of the number of attacks in Pernambuco compared to Brazil:
+Graphics analysis:
 
 Conclusion:
 The database provides us with 95% of cases only registered in the 90's, thus limiting the understanding of the increase in cases related to port maintenance. The need for more robust and local data to complement the analysis is imposed.
 
-I hope I have contributed with this analysis, whether for someone's learning or for the elucidation of my knowledge in data cleaning and analysis.Regrats!
+My first project \o/ I'm very happy, here's a message for Pedro from the future: Man, look how far you've come! Don't stop!
+I hope I helped someone with this project as many people helped me! Hugs to you who read!
+
